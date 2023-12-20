@@ -1,3 +1,12 @@
+libversion-perl (1:0.9930-1) unstable; urgency=medium
+
+  * Team upload
+
+  * Import upstream version 0.9930.
+  * Declare compliance with Debian Policy 4.6.2
+
+ -- Florian Schlichting <fsfs@debian.org>  Tue, 21 Nov 2023 23:41:47 +0100
+
 libversion-perl (1:0.9929-1) unstable; urgency=medium
 
   * Import upstream version 0.9929.
